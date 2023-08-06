@@ -8,8 +8,8 @@
 
 💬 Can ask me about
 ===
-- [x] 🍌Unity
-- [x] 🍌Game Development Technique & Optimization
++ 🍌Unity
+- 🍌Game Development Technique & Optimization
 
 📫 How to reach me
 ===
