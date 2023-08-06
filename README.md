@@ -1,14 +1,14 @@
-### Hello Banana 👋
+### Hello Banana 🍌👋🍌
 🌱Work Experience:
 ===
-⚡Unity Developer
-⚡Game Developer
-⚡.Net Developer
+🍌Unity Developer
+🍌Game Developer
+🍌.Net Developer
 ⚡Web Developer
 
 💬 Can ask me about
 ===
-✨Unity
+🍌Unity
 
 📫 How to reach me
 ===
