@@ -1,4 +1,12 @@
 ### Hi there 👋
+🌱Work Experience:
+===
+⚡Unity Developer
+⚡Game Developer
+⚡.Net Developer
+⚡Web Developer
+
+
 
 <!--
 **janjao937/janjao937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
