@@ -6,7 +6,7 @@
 ⚡.Net Developer
 ⚡Web Developer
 
-💬 Ask me about
+💬 Can ask me about
 ===
 ✨Unity
 
