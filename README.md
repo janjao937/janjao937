@@ -1,18 +1,18 @@
 # Hello Banana 🍌👋🍌
 ### 🌱Work Experience:
-===
+
 + 🍌Unity Developer
 + 🍌Game Developer
 + 🍌.Net Developer
 + ⚡Web Developer
 
 ### 💬 Can ask me about
-===
+
 + 🍌Unity
 - 🍌Game Development Technique & Optimization
 
 ### 📫 How to reach me
-===
+
 * boonyakit.kitt@gmail.com
 
 
