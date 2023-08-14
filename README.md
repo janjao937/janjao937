@@ -3,7 +3,7 @@
 
 + 🍌Unity Developer
 + 🍌Game Developer
-+ 🍌.Net Developer
++ 🍌.Net Framework Developer
 + ⚡Web Developer
 
 ### 💬 Can ask me about
