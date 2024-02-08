@@ -3,8 +3,7 @@
 
 + 🍌Unity Developer
 + 🍌Game Developer
-+ 🍌.Net Framework Developer
-+ ⚡Web Developer
++ ⚡fullstack Developer
 
 ### 💬 Can ask me about
 
