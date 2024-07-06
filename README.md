@@ -5,11 +5,6 @@
 + 🍌Game Developer
 + ⚡fullstack Developer
 
-### 💬 Can ask me about
-
-+ 🍌Unity
-- 🍌Game Development Technique & Optimization
-
 ### 📫 How to reach me
 
 * boonyakit.kitt@gmail.com
