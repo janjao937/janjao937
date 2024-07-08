@@ -1,5 +1,5 @@
-# Hello Banana 🍌👋🍌
-### 🌱Work Experience:
+# 🍌👋🍌
+### 🌱Skill:
 
 + 🍌Unity Developer
 + 🍌Game Developer
