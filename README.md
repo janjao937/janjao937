@@ -5,7 +5,7 @@
 + 🍌Game Developer
 + ⚡fullstack Developer
 
-### 📫 How to reach me
+### 📫 Contact 
 
 * boonyakit.kitt@gmail.com
 
