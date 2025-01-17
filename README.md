@@ -1,5 +1,5 @@
 # 🍌👋🍌
-### 🌱Skill:
+### 🌱 Software Developer:
 
 + 🍌Unity Developer
 + 🍌Game Developer
