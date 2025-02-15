@@ -2,8 +2,10 @@
 ### 🌱 Software Developer:
 
 + 🍌Unity Developer
-+ 🍌Game Developer
-+ ⚡fullstack Developer
++ 🍌fullstack Game Developer
++ 🍌fullstack Developer
++ 🍌software developer 
++ 🍌IOT developer(nodemcu:esp32)
 
 ### 📫 Contact 
 
