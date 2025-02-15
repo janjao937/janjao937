@@ -3,7 +3,7 @@
 
 + 🍌Unity Developer
 + 🍌Game Developer
-+ 🍌Fullstack software Developer
++ 🍌Fullstack Developer
 + 🍌IOT developer(nodemcu:esp32)
 
 ### 📫 Contact 
