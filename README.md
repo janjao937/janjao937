@@ -13,6 +13,8 @@
 + 🍌React Redux
 + 🍌Angular
 + 🍌Next
++ 🍌nodeJs/Ts
++ 🍌Express, Fastify, SocketIO, Websocket
 + 🍌Docker + Docker compose
 + 🍌Sql
 + 🍌no Sql
