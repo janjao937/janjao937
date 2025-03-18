@@ -17,6 +17,7 @@
 + 🍌Express, Fastify, SocketIO, Websocket
 + 🍌Docker + Docker compose
 + 🍌Sql
++ 🍌ORM
 + 🍌no Sql
 
 
