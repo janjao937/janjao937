@@ -5,10 +5,11 @@
 #### 🍌 Fullstack, Frontend, Backend
 
 + 🍌Unity Developer + (AR,VR,MR)
-+ 🍌Java Spring boot
++ 🍌Java Spring boot (maven)
 + 🍌Asp.Net core
 + 🍌IOT (nodemcu:esp32)
 + 🍌Vanilla (HTML, CSS, Javascript)
++ 🍌CSS, SCSS, Tailwind, Boostrap
 + 🍌React Redux
 + 🍌Angular
 + 🍌Next
