@@ -9,7 +9,7 @@
 + 🍌Asp.Net core
 + 🍌IOT (nodemcu:esp32)
 + 🍌Vanilla (HTML, CSS, Javascript)
-+ 🍌CSS, SCSS, Tailwind, Boostrap
++ 🍌CSS, SCSS, Tailwind, Bootstrap
 + 🍌React Redux
 + 🍌Angular
 + 🍌Next
