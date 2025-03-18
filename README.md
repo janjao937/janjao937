@@ -2,7 +2,7 @@
 ### 🌱 Software Developer
 ### 🌱 Game Developer
 
-### 🍌 Fullstack,Frontend,Backend
+#### 🍌 Fullstack, Frontend, Backend
 
 + 🍌Unity Developer + (AR,VR,MR)
 + 🍌Java Springboots
