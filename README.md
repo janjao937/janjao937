@@ -1,5 +1,7 @@
 # 🍌👋🍌
-### 🌱 Software Developer/Game Developer:
+### 🌱 Software Developer
+### 🌱 Game Developer
+
 ### 🍌 Fullstack,Frontend,Backend
 
 + 🍌Unity Developer + (AR,VR,MR)
