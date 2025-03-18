@@ -1,10 +1,20 @@
 # 🍌👋🍌
-### 🌱 Software Developer:
+### 🌱 Software Developer/Game Developer:
+### 🍌 Fullstack,Frontend,Backend
 
-+ 🍌Unity Developer
-+ 🍌Game Developer
-+ 🍌Fullstack Developer
-+ 🍌IOT Developer(nodemcu:esp32)
++ 🍌Unity Developer + (AR,VR,MR)
++ 🍌Java Springboots
++ 🍌Asp.Net core
++ 🍌IOT (nodemcu:esp32)
++ 🍌Vanilla (HTML, CSS, Javascript)
++ 🍌React Redux
++ 🍌Angular
++ 🍌Next
++ 🍌Docker + Docker compose
++ 🍌Sql
++ 🍌no Sql
+
+
 
 ### 📫 Contact 
 
@@ -27,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
