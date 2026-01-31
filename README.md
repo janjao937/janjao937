@@ -12,8 +12,9 @@
 + 🍌CSS, SCSS, Tailwind, Bootstrap
 + 🍌React Redux
 + 🍌Angular
-+ 🍌Next
++ 🍌Nextjs
 + 🍌nodeJs/Ts
++ 🍌TanstackStart
 + 🍌Express, Fastify, SocketIO, Websocket
 + 🍌Docker + Docker compose
 + 🍌Sql
