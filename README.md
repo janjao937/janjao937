@@ -3,7 +3,7 @@
 **Bangkok, Thailand** | 🎓 B.Sc. Games & Interactive Media, Bangkok University (GPA 3.66)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boonyakit-kittiviroj-65b8b3228)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=wix&logoColor=white)](https://janjao937.wixsite.com/boonyakit/portfolio)
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boonyakit.kitt@gmail.com)
 
 ---
