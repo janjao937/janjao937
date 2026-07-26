@@ -1,6 +1,6 @@
 # Hi there, I'm Boonyakit Kittiviroj 👋
 ### 🚀 Software Engineer & AI / Game Developer
-**Bangkok, Thailand** | 🎓 B.Sc. Games & Interactive Media, Bangkok University (GPA 3.66)
+**Bangkok, Thailand** | 🎓 B.Sc. Games & Interactive Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boonyakit-kittiviroj-65b8b3228)
 
