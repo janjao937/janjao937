@@ -41,12 +41,3 @@
 | **AI & Multi-Agent** | LangGraph, Ollama (Llama), RAG Architecture, Embedding Pipelines, Vector Databases |
 | **Game & XR Dev** | Unity Engine, C#, AR / VR / MR (Vuforia, NGO, Mirror), Game Design Patterns |
 | **DevOps & Hardware** | Docker, Docker Compose, CI/CD (GitLab, GoCD), Cloudflare Tunnel, ESP32 / NodeMCU (IoT) |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janjao937&show_icons=true&theme=radial" alt="Boonyakit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjao937&layout=compact&theme=radial" alt="Top Languages" />
-</p>
