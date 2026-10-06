@@ -1,5 +1,7 @@
 # Hi there, I'm Boonyakit Kittiviroj 👋
-### Software Engineer & AI / Game Developer
+### Full-stack Software Engineer
+### Game Developer
+### Edge AI & Systems Architect
 **Bangkok, Thailand** | 🎓 B.Sc. Games & Interactive Media in 2023
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boonyakit-kittiviroj-65b8b3228)
